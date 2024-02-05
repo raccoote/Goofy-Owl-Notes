@@ -3,3 +3,10 @@ The "Goofy Owl Notes" application is a note-taking app for Android developed as 
 Users can create multiple notes, edit them, and delete them as desired. Additionally, the ability to customize the application's colors allows users to tailor the appearance according to their preferences.
 
 You can view our app demo here: https://github.com/raccoote/Goofy-Owl-Notes/blob/main/app_demo.mp4
+
+
+
+A demonstrative screenshot:
+
+
+![image](https://github.com/raccoote/Goofy-Owl-Notes/assets/74006924/1c3ea3fc-3ff1-471b-83e7-dd3df5de14b1)
